@@ -1,0 +1,18 @@
+Home Assignment :
+1. Prepare a test strategy document based on the domain, using a chain-of-thought approach (refer to the document provided in the ZIP file)
+2. Design the automation framework structure using a chain-of-thought approach
+Output: Analyze and review the generated results
+
+As an Test Lead, develop a comprehensive test strategy document for the Healthcare domain.
+- Ask me 5 sequential questions to guide the creation of test strategy creation
+- Ask me next question after me providing the answer
+- Test strategy should be Enterprise following the industry standard
+Review the generate test strategy document as Domain Expertise Team Lead and give review comments
+Give the Output in Professional tone only
+
+As an Automation Test Lead, develop a automation framework structure for the Salesforce Login.
+- Ask me 5 sequential questions to guide the creation of automation framework
+- Ask me next question after me providing the answer
+- Automation Framework should be Enterprise following the industry standard
+Review the generated Automation Framework as Automation Architect and give review comments
+Give the Output in Professional tone only
