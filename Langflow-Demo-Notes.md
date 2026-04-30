@@ -3,9 +3,13 @@ Built Langflow-based AI workflow using Read File, Prompt Template, Groq LLM, and
 Implemented Langflow Workflow:
 
 **Read File Node** – Upload and extract user story text from input document
+
 **Prompt Template Node** – Inject extracted text into structured QA prompt template
+
 **Groq LLM Node** – Generate enterprise-grade test cases using Groq-hosted LLM
+
 **System Message Configuration** – Set QA expert persona/instructions for output quality
+
 **Chat Output Node** – Display generated test cases in structured conversational format
 
 **Tech Stack:**
